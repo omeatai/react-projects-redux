@@ -23,7 +23,7 @@ body {
     .booklist {
         grid-template-columns: repeat(3, 1fr);
         justify-items: center;
-        align-items: center;
+        align-items: start;
         width: 90vw;
     }
 }
@@ -65,4 +65,8 @@ body {
     font-size: 1rem;
     margin-top: 0.5rem;
     letter-spacing: 2px;
+}
+
+.book p {
+    margin: 1rem 0 0.5rem;
 }
