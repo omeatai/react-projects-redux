@@ -56,6 +56,23 @@ npm start
 
 # Setup Nested Components
 
+### [https://github.com/omeatai/react-projects-redux/commit/7900607763282673b5d70388c68c073a18cb4b4a](https://github.com/omeatai/react-projects-redux/commit/7900607763282673b5d70388c68c073a18cb4b4a)
+
+<img width="1080" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2aa8078a-e4dd-4185-ad8b-f1ff19db0a4e">
+<img width="1080" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b1bb15a6-d802-4562-ba5c-1c9e30e5c1e5">
+<img width="1080" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ccf5c3bb-7df3-4a4d-8555-36fcd18b43d2">
+<img width="1301" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/82238e8f-0ec6-4136-9526-c375a2482fa3">
+<img width="1301" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f61d1852-2571-48d3-9881-6ea6232ec8f0">
+
+# #End</details>
+
++BookList App
+
+<details>
+<summary>3. BookList App - Setup Components </summary>
+
+# Setup Components
+
 ```x
 
 ```
