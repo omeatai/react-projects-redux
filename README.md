@@ -134,9 +134,13 @@ npm start
 
 # Using Children Props
 
-```x
+### [https://github.com/omeatai/react-projects-redux/commit/62ef85081cde305ca4dd89a6a03b8fa607ec5be6](https://github.com/omeatai/react-projects-redux/commit/62ef85081cde305ca4dd89a6a03b8fa607ec5be6)
 
-```
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c8ca36d0-c909-4676-aea2-cd717ca106c5">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2ba1736a-632b-44da-bfa2-0672e59eec7c">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/4445f57f-9de1-49c0-bc8e-dae620ef4670">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6212a035-efec-481b-90c9-b6d55c0e0b7b">
+<img width="1300" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/e1ad79fe-5234-4238-9f62-3dbf5a6b65b6">
 
 # #End</details>
 
