@@ -149,6 +149,19 @@ npm start
 
 # Using Prop Data from List
 
+### [https://github.com/omeatai/react-projects-redux/commit/201a814e93f69066964f314b07fc653a2d800d3b](https://github.com/omeatai/react-projects-redux/commit/201a814e93f69066964f314b07fc653a2d800d3b)
+
+<img width="1083" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b30c77b7-3d7c-412d-868b-7425a670253f">
+<img width="1083" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/cdfe709e-8b9e-4ab1-ade4-46c1fcf98c73">
+<img width="1300" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/171384bf-3e63-4dd0-a3b6-b58da8155044">
+
+# #End</details>
+
+<details>
+<summary>9. BookList App - Using Events </summary>
+
+# Using Events
+
 ```x
 
 ```
