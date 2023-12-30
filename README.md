@@ -119,6 +119,53 @@ npm start
 
 # Using Props
 
+### [https://github.com/omeatai/react-projects-redux/commit/3a51e84819d25634ce9021e274868ae1c1e2b38e](https://github.com/omeatai/react-projects-redux/commit/3a51e84819d25634ce9021e274868ae1c1e2b38e)
+
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a4325806-f312-4213-a52f-9e67f7b58e53">
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2616081c-23fd-4d88-9a1d-691437fa3cc2">
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0e06b561-0e60-4270-a943-13835fb07010">
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/51f76227-07f7-425a-96b7-4283824ba695">
+<img width="1298" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/624c8115-08db-4a41-b5b6-b18a75cfca8d">
+
+# #End</details>
+
+<details>
+<summary>7. BookList App - Using Prop Data from List </summary>
+
+# Using Prop Data from List
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
 ```x
 
 ```
