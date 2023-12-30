@@ -73,6 +73,26 @@ npm start
 
 # Setup Components
 
+### [https://github.com/omeatai/react-projects-redux/commit/4a4d43c6683c5c5ac40f04543359aa08e1d641cf](https://github.com/omeatai/react-projects-redux/commit/4a4d43c6683c5c5ac40f04543359aa08e1d641cf)
+
+<img width="1301" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/9a97b606-2afa-431a-ae88-3a00b45526f0">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/365964e6-b075-4e70-8cc1-17bb1dae2173">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2d0799e2-308e-4624-a1b8-ab07cd2d5deb">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/12111b97-6e63-4194-a017-d03438feeffb">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/69565190-37a5-4501-a492-3cf63991477a">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5632f33f-9edb-4d39-a62c-2fcb10055587">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/d41eadd2-b31a-4a11-9e5e-01722afd4657">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f542c0b1-7614-4d22-873b-b284c504f066">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/855929f3-72ca-4530-87fd-fdfcadd887ca">
+<img width="1301" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/41da2e60-493a-4401-88a8-e47719bd5215">
+
+# #End</details>
+
+<details>
+<summary>4. BookList App - Setup CSS in JSX </summary>
+
+# Setup CSS in JSX
+
 ```x
 
 ```
