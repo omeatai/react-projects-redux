@@ -130,13 +130,20 @@ npm start
 # #End</details>
 
 <details>
-<summary>7. BookList App - Using Prop Data from List </summary>
+<summary>7. BookList App - Using Children Props </summary>
 
-# Using Prop Data from List
+# Using Children Props
 
 ```x
 
 ```
+
+# #End</details>
+
+<details>
+<summary>8. BookList App - Using Prop Data from List </summary>
+
+# Using Prop Data from List
 
 ```x
 
