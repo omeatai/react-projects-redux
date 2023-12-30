@@ -89,9 +89,21 @@ npm start
 # #End</details>
 
 <details>
-<summary>4. BookList App - Setup CSS in JSX </summary>
+<summary>4. BookList App - Using CSS in JSX </summary>
 
-# Setup CSS in JSX
+# Using CSS in JSX
+
+### [https://github.com/omeatai/react-projects-redux/commit/c4252148e6d984932bd7b717dec98399dbe9283e](https://github.com/omeatai/react-projects-redux/commit/c4252148e6d984932bd7b717dec98399dbe9283e)
+
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5996481e-afd8-4e22-9a8c-94aa26754d0d">
+<img width="1300" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/61497619-26fb-4659-b5a6-3387823caff7">
+
+# #End</details>
+
+<details>
+<summary>5. BookList App - Using Javascript in JSX </summary>
+
+# Using Javascript in JSX
 
 ```x
 
