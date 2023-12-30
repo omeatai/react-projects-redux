@@ -1,9 +1,10 @@
-import Greeting from "./components/Greeting";
+// import Greeting from "./components/Greeting/Greeting";
+import BookList from "./components/BookList/BookList";
 
 const App = () => {
   return (
     <>
-      <Greeting />
+      <BookList />
     </>
   );
 };
