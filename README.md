@@ -105,6 +105,20 @@ npm start
 
 # Using Javascript in JSX
 
+### [https://github.com/omeatai/react-projects-redux/commit/6d214c5eb55fe90442b93c42f6e7fffaa57af353](https://github.com/omeatai/react-projects-redux/commit/6d214c5eb55fe90442b93c42f6e7fffaa57af353)
+
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3b484859-ff21-448a-977d-9e489e3a5008">
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/e0c992f8-289a-4639-8310-5315c96779a6">
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a4ea4557-315d-4a19-92cd-50cf3735b505">
+<img width="1298" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/df2f7b47-97fd-4aae-bf38-4317236af97f">
+
+# #End</details>
+
+<details>
+<summary>6. BookList App - Using Props </summary>
+
+# Using Props
+
 ```x
 
 ```
