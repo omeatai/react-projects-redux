@@ -1,13 +1,14 @@
-import Image from "../Image/Image";
-import Title from "../Title/Title";
-import Author from "../Author/Author";
-
 const Book = () => {
+  const title =
+    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones";
+  const author = "James Clear";
+  const img = "./assets/images/atomic_habits.jpg";
+
   return (
     <article className="book">
-      <Image />
-      <Title />
-      <Author />
+      <img src={img} alt={title} />
+      <h2>{title}</h2>
+      <h4>{author.toUpperCase()}</h4>
     </article>
   );
 };
