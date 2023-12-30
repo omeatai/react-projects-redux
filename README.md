@@ -20,20 +20,27 @@ These are modern React Applications built with React, Context API, Redux and Red
 ## Project Steps (Tutorial)
 
 <details>
-<summary>1. Create Server.js </summary>
+<summary>1. Create React App </summary>
 
-# Create Server.js 
+# Check Node Version
 
 ```x
-
+node --version
+v20.9.0
 ```
 
-```x
+# Create React App
 
+```x
+npx create-react-app my-app
+npx create-react-app@latest my-app
 ```
 
-```x
+# Start React Dev Server
 
+```x
+cd my-app
+npm start
 ```
 
 ```x
