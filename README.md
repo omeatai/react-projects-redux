@@ -24,6 +24,8 @@ These are modern React Applications built with React, Context API, Redux and Red
 
 # Check Node Version
 
+### [https://github.com/omeatai/react-projects-redux/commit/8998f7b8136421b81ac5dcca271c84ddaacc2c65](https://github.com/omeatai/react-projects-redux/commit/8998f7b8136421b81ac5dcca271c84ddaacc2c65)
+
 ```x
 node --version
 v20.9.0
@@ -43,16 +45,16 @@ cd my-app
 npm start
 ```
 
-```x
-
-```
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3461c7fd-ffe9-4387-8295-bd912364549e">
+<img width="1077" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/fef65189-f735-40c7-87bc-d0b0c9260dbd">
+<img width="1301" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ec62e523-0b9d-4159-9a1d-879873d6b35e">
 
 # #End</details>
 
 <details>
-<summary>2. Setup </summary>
+<summary>2. Setup Nested Components </summary>
 
-# Setup
+# Setup Nested Components
 
 ```x
 
