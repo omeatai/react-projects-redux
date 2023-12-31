@@ -205,6 +205,19 @@ npm start
 
 # Get single Book by ID
 
+### [https://github.com/omeatai/react-projects-redux/commit/d700ae31be49184925413f283f1c284f4cb307ee](https://github.com/omeatai/react-projects-redux/commit/d700ae31be49184925413f283f1c284f4cb307ee)
+
+<img width="1079" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3d036edb-ad98-4a48-bcfd-3f49d6104a12">
+<img width="1079" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/fcb2f701-b7bf-4652-a025-7cad49bde638">
+<img width="1236" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c00db8e3-1f3b-40e0-b77a-c1930a56f530">
+
+# #End</details>
+
+<details>
+<summary>13. BookList App - Refactoring with ES6 Modules: Import and Export </summary>
+
+# Refactoring with ES6 Modules: Import and Export 
+
 ```x
 
 ```
