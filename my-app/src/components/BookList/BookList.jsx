@@ -1,7 +1,7 @@
 import Book from "./Book/Book";
 
 const BookList = () => {
-  const books = [
+  let books = [
     {
       author: "James Clear",
       title:
@@ -34,23 +34,6 @@ const BookList = () => {
     },
   ];
 
-  return (
-    <main>
-      <h1 className="booklist-heading">Welcome to my BookList</h1>
-      <EventExamples />
-      <section className="booklist">
-        {books.map((book) => {
-          //   console.log(book);
-          return <Book {...book} key={book.id} />;
-        })}
-      </section>
-    </main>
-  );
-};
-
-export default BookList;
-
-const EventExamples = () => {
   const formStyle = {
     border: "4px solid #bbb",
     borderRadius: "1rem",
@@ -71,43 +54,36 @@ const EventExamples = () => {
     display: "block",
   };
 
-  const buttonStyle = {
-    margin: "1rem 1rem 0 0",
-    padding: "0.5rem 2rem",
-    border: "none",
-    borderRadius: "1rem",
-    backgroundColor: "#e52b50",
-    color: "#fff",
-    cursor: "pointer",
-  };
-
-  const handleFormSubmission = (e) => {
-    e.preventDefault();
-    console.log("Form Submitted");
-    alert(`Form Submitted`);
+  const handleBookSearch = (e) => {
+    const searchTerm = e.target.value;
+    console.log(searchTerm);
+    const filteredBooks = books.filter((book) => {
+      return book.title.toLowerCase().includes(searchTerm.toLowerCase());
+    });
+    console.log(filteredBooks);
   };
 
   return (
-    <section style={{ margin: "2rem" }}>
-      <form style={formStyle} onSubmit={handleFormSubmission}>
-        <h2>Example Form</h2>
-        <input
-          type="text"
-          name="example"
-          onChange={(e) => console.log(e.target.value)}
-          style={inputStyle}
-        />
-        <button
-          type="button"
-          style={buttonStyle}
-          onClick={() => console.log(`Button Clicked`)}
-        >
-          HandleButtonClick
-        </button>
-        <button type="submit" style={buttonStyle}>
-          HandleFormSubmission
-        </button>
-      </form>
-    </section>
+    <main>
+      <h1 className="booklist-heading">Welcome to my BookList</h1>
+      <section style={{ margin: "2rem" }}>
+        <form style={formStyle}>
+          <h2>Search for Book</h2>
+          <input
+            type="text"
+            name="searchBook"
+            onChange={handleBookSearch}
+            style={inputStyle}
+          />
+        </form>
+      </section>
+      <section className="booklist">
+        {books.map((book) => {
+          return <Book {...book} key={book.id} />;
+        })}
+      </section>
+    </main>
   );
 };
+
+export default BookList;
