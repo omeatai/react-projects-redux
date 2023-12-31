@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These are modern React Applications built with React, Context API, Redux and Redux Toolkit by Ifeanyi Omeata.
+These are modern React Applications built with React, Context API, Redux, Redux Toolkit and more.... by Ifeanyi Omeata.
 
 ## Development Tools/Stack
 
