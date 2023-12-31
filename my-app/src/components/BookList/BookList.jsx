@@ -37,9 +37,10 @@ const BookList = () => {
   return (
     <main>
       <h1 className="booklist-heading">Welcome to my BookList</h1>
+      <EventExamples />
       <section className="booklist">
         {books.map((book) => {
-          console.log(book);
+          //   console.log(book);
           return <Book {...book} key={book.id} />;
         })}
       </section>
@@ -48,3 +49,68 @@ const BookList = () => {
 };
 
 export default BookList;
+
+const EventExamples = () => {
+  const formStyle = {
+    border: "4px solid #bbb",
+    borderRadius: "1rem",
+    padding: "2rem",
+    maxWidth: "50rem",
+    margin: "8rem auto -8rem auto",
+  };
+
+  const inputStyle = {
+    margin: "1rem 1rem 0 0",
+    padding: "0.5rem 2rem",
+    border: "1px solid #bbb",
+    borderRadius: "1rem",
+    backgroundColor: "#fff",
+    color: "#000",
+    fontSize: "1rem",
+    width: "70%",
+    display: "block",
+  };
+
+  const buttonStyle = {
+    margin: "1rem 1rem 0 0",
+    padding: "0.5rem 2rem",
+    border: "none",
+    borderRadius: "1rem",
+    backgroundColor: "#e52b50",
+    color: "#fff",
+    cursor: "pointer",
+  };
+
+  const handleFormInput = (e) => {
+    console.log(`${e.target.value} | Name: ${e.target.name}`);
+  };
+  const handleButtonClick = (e) => {
+    console.log(`Button Clicked`);
+    alert(`Button Clicked`);
+  };
+  const handleFormSubmission = (e) => {
+    e.preventDefault();
+    console.log("Form Submitted");
+    alert(`Form Submitted`);
+  };
+
+  return (
+    <section style={{ margin: "2rem" }}>
+      <form style={formStyle} onSubmit={handleFormSubmission}>
+        <h2>Example Form</h2>
+        <input
+          type="text"
+          name="example"
+          onChange={handleFormInput}
+          style={inputStyle}
+        />
+        <button type="button" style={buttonStyle} onClick={handleButtonClick}>
+          HandleButtonClick
+        </button>
+        <button type="submit" style={buttonStyle}>
+          HandleFormSubmission
+        </button>
+      </form>
+    </section>
+  );
+};
