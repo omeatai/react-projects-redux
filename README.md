@@ -287,7 +287,7 @@ npm run build
 +Backroads App
 
 <details>
-<summary>17. Backroads App - Create React App </summary>
+<summary>17. TripTours App - Create React App </summary>
 
 # Create React App
 
