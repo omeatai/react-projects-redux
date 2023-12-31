@@ -2,8 +2,8 @@
 node_modules/
 
 # Build files
-build/
-dist/
+# build/
+# dist/
 
 # Dependency directories
 /.pnp/
