@@ -177,6 +177,20 @@ npm start
 
 # Using Anonymous Functions
 
+### [https://github.com/omeatai/react-projects-redux/commit/2db7dc6f7c88ca2d08b4132ae2bbcd12a9a68120](https://github.com/omeatai/react-projects-redux/commit/2db7dc6f7c88ca2d08b4132ae2bbcd12a9a68120)
+
+<img width="1080" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/1ba7063f-c329-4e1d-8faf-4c2526709c0d">
+<img width="1078" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/216e0c98-95b4-424f-a321-93df42a358e3">
+<img width="1233" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6afc29a8-02ee-49c8-8506-9ef798da79a5">
+<img width="1231" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/4995b151-cfe9-4b36-8183-60c0d274ad80">
+
+# #End</details>
+
+<details>
+<summary>11. BookList App - Using </summary>
+
+# Using 
+
 ```x
 
 ```
