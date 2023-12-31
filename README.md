@@ -242,9 +242,26 @@ npm start
 # #End</details>
 
 <details>
-<summary>15. BookList App - U </summary>
+<summary>15. BookList App - Setup Number and Title </summary>
 
-# U
+# Setup Number and Title
+
+### [https://github.com/omeatai/react-projects-redux/commit/164927ee43c5b1678409803dc72d07bcd4d576fc](https://github.com/omeatai/react-projects-redux/commit/164927ee43c5b1678409803dc72d07bcd4d576fc)
+
+<img width="1081" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/e47a97bb-d8d2-4333-96b6-f58f139bbe38">
+<img width="1081" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/bc535606-f670-4b1f-a4aa-76d06d7f05da">
+<img width="1081" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f9eaa6a8-d572-4ec6-aa72-9f4257af1674">
+<img width="1081" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/92c0e5c7-971c-4c51-a9f3-100f5d39f1dd">
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0b8092c2-7c04-4b79-9b12-1127ba3a4e49">
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/742e9ded-3b9a-44fe-bc89-e94a7450615e">
+
+# #End</details>
+
+<details>
+<summary>16. BookList App - Deploy App </summary>
+
+# Deploy App
+
 ```x
 
 ```
