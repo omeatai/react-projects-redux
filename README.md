@@ -16,6 +16,12 @@ These are modern React Applications built with React, Context API, Redux, Redux 
 
 ## Demo
 
+### 1. Booklist App 
+
+[https://booklist-ifeanyiomeata.netlify.app/](https://booklist-ifeanyiomeata.netlify.app/)
+
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/71de2dd6-1ddd-4638-8391-65824c72dc8d">
+
 
 ## Project Steps (Tutorial)
 
@@ -262,9 +268,29 @@ npm start
 
 # Deploy App
 
-```x
+# Build App for Production
 
+```x
+npm run build
 ```
+
+### [https://booklist-ifeanyiomeata.netlify.app/](https://booklist-ifeanyiomeata.netlify.app/)
+
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/34499f84-8ea3-4843-be4c-bfc499492c8a">
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/33833e18-bb2b-42d5-881c-7956b254be1d">
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3d176945-bed2-4485-900c-43907b090978">
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/8b9a6cb4-e350-49c2-9b59-a885f7827028">
+<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/af983a07-19db-4606-aa01-182b4f904227">
+
+# #End</details>
+
++Backroads App
+
+<details>
+<summary>17. Backroads App - Create React App </summary>
+
+# Create React App
+
 
 ```x
 
