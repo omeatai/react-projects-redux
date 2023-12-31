@@ -42,14 +42,16 @@ v20.9.0
 # Create React App
 
 ```x
-npx create-react-app my-app
-npx create-react-app@latest my-app
+npx create-react-app booklist-app
+npx create-react-app@latest booklist-app
+
+yarn create react-app booklist-app
 ```
 
 # Start React Dev Server
 
 ```x
-cd my-app
+cd booklist-app
 npm start
 ```
 
