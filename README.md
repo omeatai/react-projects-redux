@@ -218,6 +218,20 @@ npm start
 
 # Refactoring with ES6 Modules: Import and Export 
 
+### [https://github.com/omeatai/react-projects-redux/commit/c0ace5fb7ab6d57cc8d7212dce26466472bc2215](https://github.com/omeatai/react-projects-redux/commit/c0ace5fb7ab6d57cc8d7212dce26466472bc2215)
+
+<img width="1081" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b7a4edb0-931a-403f-90a0-800ffd68f51b">
+<img width="1081" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ac23e1d8-b422-43c3-b18c-030d2db27932">
+<img width="1081" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/fdb5dcda-67cc-43ba-bf48-58d44f25541a">
+<img width="1186" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/62426c8c-3518-4fc6-ae5e-8b17512850eb">
+
+# #End</details>
+
+<details>
+<summary>14. BookList App - Using Local Images in Src Folder </summary>
+
+# Using Local Images in Src Folder
+
 ```x
 
 ```
