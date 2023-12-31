@@ -2,26 +2,6 @@ import Book from "./Book/Book";
 import { books } from "./data/books";
 
 const BookList = () => {
-  const formStyle = {
-    border: "4px solid #bbb",
-    borderRadius: "1rem",
-    padding: "2rem",
-    maxWidth: "50rem",
-    margin: "8rem auto -8rem auto",
-  };
-
-  const inputStyle = {
-    margin: "1rem 1rem 0 0",
-    padding: "0.5rem 2rem",
-    border: "1px solid #bbb",
-    borderRadius: "1rem",
-    backgroundColor: "#fff",
-    color: "#000",
-    fontSize: "1rem",
-    width: "70%",
-    display: "block",
-  };
-
   const handleBookSearch = (e) => {
     const searchTerm = e.target.value;
     console.log(searchTerm);
@@ -39,20 +19,29 @@ const BookList = () => {
   return (
     <main>
       <h1 className="booklist-heading">Welcome to my BookList</h1>
-      <section style={{ margin: "2rem" }}>
-        <form style={formStyle}>
+      <section style={{ margin: "1rem" }}>
+        <form className="booklist-form">
           <h2>Search for Book</h2>
           <input
             type="text"
             name="searchBook"
             onChange={handleBookSearch}
-            style={inputStyle}
+            className="booklist-input"
+            placeholder="Search for a book..."
           />
         </form>
       </section>
+      <h1 className="booklist-topic">amazon best sellers</h1>
       <section className="booklist">
-        {books.map((book) => {
-          return <Book {...book} key={book.id} getBookByID={getBookByID} />;
+        {books.map((book, index) => {
+          return (
+            <Book
+              {...book}
+              key={book.id}
+              getBookByID={getBookByID}
+              number={index}
+            />
+          );
         })}
       </section>
     </main>
