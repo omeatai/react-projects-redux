@@ -25,8 +25,10 @@ These are modern React Applications built with React, Context API, Redux, Redux 
 
 ## Project Steps (Tutorial)
 
++BookList App
+
 <details>
-<summary>1. Create React App </summary>
+<summary>1. BookList App - Create React App </summary>
 
 # Check Node Version
 
@@ -58,7 +60,7 @@ npm start
 # #End</details>
 
 <details>
-<summary>2. Setup Nested Components </summary>
+<summary>2. BookList App -  Setup Nested Components </summary>
 
 # Setup Nested Components
 
@@ -71,8 +73,6 @@ npm start
 <img width="1301" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f61d1852-2571-48d3-9881-6ea6232ec8f0">
 
 # #End</details>
-
-+BookList App
 
 <details>
 <summary>3. BookList App - Setup Components </summary>
