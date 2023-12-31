@@ -242,9 +242,9 @@ npm start
 # #End</details>
 
 <details>
-<summary>15. BookList App - Setup Number and Title </summary>
+<summary>15. BookList App - Setup Book Number and Page Title </summary>
 
-# Setup Number and Title
+# Setup Book Number and Page Title
 
 ### [https://github.com/omeatai/react-projects-redux/commit/164927ee43c5b1678409803dc72d07bcd4d576fc](https://github.com/omeatai/react-projects-redux/commit/164927ee43c5b1678409803dc72d07bcd4d576fc)
 
