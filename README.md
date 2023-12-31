@@ -187,9 +187,23 @@ npm start
 # #End</details>
 
 <details>
-<summary>11. BookList App - Using </summary>
+<summary>11. BookList App - Searching for Books </summary>
 
-# Using 
+# Searching for Books
+
+### [https://github.com/omeatai/react-projects-redux/commit/883216fa37bc1eb366ffd9785b7e8ed5783b081e](https://github.com/omeatai/react-projects-redux/commit/883216fa37bc1eb366ffd9785b7e8ed5783b081e)
+
+<img width="1231" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/1f1b300a-dbe1-41c4-bfa9-a43ac2c6a6e9">
+<img width="1080" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/d6c9d8a8-7f04-4de1-b00b-c4c41db0d5ad">
+<img width="1080" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f7db034d-51be-4f7e-adbf-6904755f32cf">
+<img width="1080" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a56fa864-d3e2-4a07-83ae-c5ef4f431fa9">
+
+# #End</details>
+
+<details>
+<summary>12. BookList App - Get single Book by ID </summary>
+
+# Get single Book by ID
 
 ```x
 
