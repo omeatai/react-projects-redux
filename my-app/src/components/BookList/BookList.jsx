@@ -63,6 +63,11 @@ const BookList = () => {
     console.log(filteredBooks);
   };
 
+  const getBookByID = (id) => {
+    const book = books.find((book) => book.id === id);
+    console.log(book);
+  };
+
   return (
     <main>
       <h1 className="booklist-heading">Welcome to my BookList</h1>
@@ -79,7 +84,7 @@ const BookList = () => {
       </section>
       <section className="booklist">
         {books.map((book) => {
-          return <Book {...book} key={book.id} />;
+          return <Book {...book} key={book.id} getBookByID={getBookByID} />;
         })}
       </section>
     </main>

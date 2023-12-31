@@ -1,5 +1,15 @@
 const Book = (props) => {
-  const { img, title, author, caption, children } = props;
+  const { img, title, author, caption, id, getBookByID, children } = props;
+
+  const buttonStyle = {
+    margin: "1rem 1rem 0 0",
+    padding: "0.5rem 2rem",
+    border: "none",
+    borderRadius: "1rem",
+    backgroundColor: "#e52b50",
+    color: "#fff",
+    cursor: "pointer",
+  };
 
   return (
     <article className="book">
@@ -8,6 +18,9 @@ const Book = (props) => {
       <h4>{author.toUpperCase()}</h4>
       <h5>{caption}</h5>
       {children}
+      <button style={buttonStyle} onClick={() => getBookByID(id)}>
+        Get Book
+      </button>
     </article>
   );
 };
