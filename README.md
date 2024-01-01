@@ -288,21 +288,35 @@ npm run build
 
 # #End</details>
 
-+TripTours App
++TripAdvisor App
 
 <details>
-<summary>17. TripTours App - Create React App </summary>
+<summary>17. TripAdvisor App - Create React App </summary>
 
 # Create React App
 
+### [https://github.com/omeatai/react-projects-redux/commit/1005e5c839d9d6ee82a39c2423a1256267872781](https://github.com/omeatai/react-projects-redux/commit/1005e5c839d9d6ee82a39c2423a1256267872781)
 
 ```x
-
+npx create-react-app@latest tripadvisor-app
 ```
 
 ```x
-
+cd tripadvisor-app
+npm start
 ```
+
+<img width="1195" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/180ef104-5770-40fc-b678-94e64d8ad4c9">
+<img width="1195" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/4d72ba28-317d-44cf-85f8-f3cb2d19015c">
+<img width="1325" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/904c8042-b9ee-4ccc-bc5e-11028aac9c03">
+
+# #End</details>
+
+<details>
+<summary>18. TripAdvisor App - Setup HTML Structure </summary>
+
+# Setup HTML Structure
+
 
 ```x
 
