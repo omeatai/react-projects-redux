@@ -391,6 +391,22 @@ html {
 
 # Setup Title and Services Components
 
+### [https://github.com/omeatai/react-projects-redux/commit/e48bccaeb4966882c2e66ea0373159b7e55381d7](https://github.com/omeatai/react-projects-redux/commit/e48bccaeb4966882c2e66ea0373159b7e55381d7)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c572917d-c906-42b8-a280-9dc9bcd647ec">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6738e9b7-3337-4139-8e5a-c94b614b86a0">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a211575f-50d9-43e2-bef4-31c65183a6f4">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ded12061-fda3-41d1-b850-3b4afb62f367">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/48910636-edea-4da0-947f-8bc9f6b2794f">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/59fe4a3f-6b85-4479-8ef8-6dbd0aa50390">
+
+# #End</details>
+
+<details>
+<summary>23. TripAdvisor App - Setup Tours and Footer Components </summary>
+
+# Setup Tours and Footer Components
+
 ```x
 
 ```
