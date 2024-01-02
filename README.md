@@ -458,8 +458,10 @@ git push -u origin main
 
 # #End</details>
 
++React Adv Concepts
+
 <details>
-<summary>25. TripAdvisor App - Setup with Vite </summary>
+<summary>25. React Adv - Setup with Vite </summary>
 
 # Setup with Vite
 
@@ -522,6 +524,13 @@ Vite Setup
 - rest the same - imports/exports, deployment, assets, etc...
 
 <img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0e218b69-eeb7-4324-9f61-7aa022cdcb35">
+
+# #End</details>
+
+<details>
+<summary>26. React Adv - Setup  </summary>
+
+# Setup 
 
 ```x
 
