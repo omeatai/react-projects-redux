@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
       <div className="hero-banner">
-        <h1>continue exploring</h1>
+        <h1>Barloys - Trip Advisor</h1>
         <p>
           Welcome to an extraordinary journey with Barloys Trip Advisor. Immerse
           yourself in the thrill of discovery as we curate unparalleled travel
