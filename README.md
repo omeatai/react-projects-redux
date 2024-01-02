@@ -422,13 +422,41 @@ html {
 
 # Setup Continuous Deployment
 
-```x
+### [https://github.com/omeatai/react-projects-redux/commit/13075130704cf705edf0213225ffc65866a02dc1](https://github.com/omeatai/react-projects-redux/commit/13075130704cf705edf0213225ffc65866a02dc1)
 
+# remove existing git repo
+
+```x
+rm -rf .git
 ```
 
-```x
+# setup new repo
 
+```x
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:john-doe/temp-tripadvisor-app.git
+git branch -M main
+git push -u origin main
 ```
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/7015cff0-5684-49fd-9d28-ceb796f2b5a8">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/af68de2c-b6a4-4184-8ce5-51086c09de4d">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2440d05e-ce4a-4fe3-b4f5-ef75590baf68">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/dd4c1773-014b-4bc1-a2ae-990466fab375">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b53abaed-8e0e-406f-86ac-ab680958234f">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0a188e6a-7e17-4936-ad0e-5e0137c2031c">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/04490662-bf32-4852-8ab2-ddcf32286d82">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0d44ab9a-87a1-4225-8368-b33a891fa195">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/804ca49b-69dd-43f9-94b9-be17b098ef8d">
+
+# #End</details>
+
+<details>
+<summary>25. TripAdvisor App - Setup with Vite </summary>
+
+# Setup with Vite
 
 ```x
 
