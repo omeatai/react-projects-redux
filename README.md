@@ -20,7 +20,7 @@ These are modern React Applications built with React, Context API, Redux, Redux 
 
 [https://booklist-ifeanyiomeata.netlify.app/](https://booklist-ifeanyiomeata.netlify.app/)
 
-<img width="1355" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/71de2dd6-1ddd-4638-8391-65824c72dc8d">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ab3777a1-4466-4fac-8712-ca83b7e58450">
 
 ### 2. Trip Advisor App
 
