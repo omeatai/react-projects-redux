@@ -317,6 +317,19 @@ npm start
 
 # Setup HTML Structure
 
+### [https://github.com/omeatai/react-projects-redux/commit/6c8171b5d69a62cf46560f55d4ad361ea3bf1bf1](https://github.com/omeatai/react-projects-redux/commit/6c8171b5d69a62cf46560f55d4ad361ea3bf1bf1)
+
+<img width="1195" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3633395f-a810-4cd3-bb99-7f6922da1349">
+<img width="1195" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/892003d2-1627-4720-93c5-9ea02c9c53d8">
+<img width="1195" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f9363c78-1ddb-44aa-b092-b1cf411b7edc">
+<img width="1382" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b3b95f7e-6597-4a6f-b619-048d658d0031">
+
+# #End</details>
+
+<details>
+<summary>19. TripAdvisor App - Setup Components </summary>
+
+# Setup Components
 
 ```x
 
