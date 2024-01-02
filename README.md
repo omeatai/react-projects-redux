@@ -327,9 +327,39 @@ npm start
 # #End</details>
 
 <details>
-<summary>19. TripAdvisor App - Setup Components </summary>
+<summary>19. TripAdvisor App - Setup Components and Logo </summary>
 
-# Setup Components
+# Setup Components and Logo
+
+### [https://github.com/omeatai/react-projects-redux/commit/e79a8cdb68dcd7018e6b6c7853e7a79ea33c5423](https://github.com/omeatai/react-projects-redux/commit/e79a8cdb68dcd7018e6b6c7853e7a79ea33c5423)
+
+```x
+html {
+  scroll-behavior: smooth;
+}
+.section {
+  /* navbar height */
+  scroll-margin-top: 4rem;
+}
+```
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/bcd760fd-f347-4bc1-9603-aa6941fce4a9">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/709440c1-a3b2-4af8-9f3c-07ce2b6d3a64">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/14699839-7e64-4488-bb79-0d68e593990c">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a354a687-a752-4db3-a0b2-15a9bc4564eb">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/632291b8-2dcf-4253-8dc1-7adbbaaf4871">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6e64acea-dfef-4ed2-8413-76106fe9d602">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5b1c62e1-9b85-4dd9-8acb-9a8283aa1dba">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6e0fe1ad-d6c7-4ede-88a9-0d8280fa4d83">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/32d73b97-e7f8-4f3b-b4be-9d5dc8f48121">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/48140b68-668b-4d8d-9a61-0d4559ecd732">
+
+# #End</details>
+
+<details>
+<summary>20. TripAdvisor App - Setup Links </summary>
+
+# Setup Links
 
 ```x
 
