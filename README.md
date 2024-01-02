@@ -407,6 +407,21 @@ html {
 
 # Setup Tours and Footer Components
 
+### [https://github.com/omeatai/react-projects-redux/commit/9b316a2bbd7b909bdee70c9ce2d221342d28ce2b](https://github.com/omeatai/react-projects-redux/commit/9b316a2bbd7b909bdee70c9ce2d221342d28ce2b)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c2da0e31-e132-4462-9c35-98c76c3bc701">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/56560a08-b40d-4440-ba52-484e8ee1d4d0">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c3711582-d202-45e3-acf5-ec9d2e878877">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a11c0eeb-ef56-4061-8519-bf283a7d53d4">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0a51a212-dd74-4697-b535-6f9ba26b3844">
+
+# #End</details>
+
+<details>
+<summary>24. TripAdvisor App - Setup Continuous Deployment </summary>
+
+# Setup Continuous Deployment
+
 ```x
 
 ```
