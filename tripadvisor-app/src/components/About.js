@@ -23,7 +23,7 @@ const About = () => {
             Join us in creating memories that last a lifetime, as we redefine
             the art of travel and invite you to explore the world in style.
           </p>
-          <a href="#" className="btn">
+          <a href="#about" className="btn">
             read more
           </a>
         </article>
