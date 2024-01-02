@@ -463,17 +463,65 @@ git push -u origin main
 
 # Setup with Vite
 
-```x
+### [https://vitejs.dev/guide/](https://vitejs.dev/guide/)
 
+```x
+# npm 7+, extra double-dash is needed:
+npm create vite@latest my-react-app -- --template react
+
+# yarn
+yarn create vite my-react-app --template react
+
+# pnpm
+pnpm create vite my-react-app --template react
+
+# bun
+bunx create-vite my-react-app --template react
 ```
 
 ```x
+supported template:
+vanilla, vanilla-ts, vue, vue-ts, react, react-ts, react-swc, react-swc-ts, preact, preact-ts,
+lit, lit-ts, svelte, svelte-ts, solid, solid-ts, qwik, qwik-ts.
+```
 
+# Install Dependencies
+
+```x
+npm install
+npm i
+```
+
+# Start Development Server
+
+```x
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
 ```
 
 ```x
-
+npm run dev
 ```
+
+```x
+Local: http://localhost: 5173/
+Network: use --host to expose
+press h to show help
+```
+
+Vite Setup
+
+- need to use .jsx extension
+- index.html in the source instead of public
+- assets still in public
+- instead of index.js, need to use main.jsx
+- to spin up dev server - "npm run dev"
+- rest the same - imports/exports, deployment, assets, etc...
+
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0e218b69-eeb7-4324-9f61-7aa022cdcb35">
 
 ```x
 
