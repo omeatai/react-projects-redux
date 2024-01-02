@@ -361,6 +361,21 @@ html {
 
 # Setup Links
 
+### [https://github.com/omeatai/react-projects-redux/commit/ce9f6198965c8c2d0dfb09fc3344eb909dedd90a](https://github.com/omeatai/react-projects-redux/commit/ce9f6198965c8c2d0dfb09fc3344eb909dedd90a)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ccc6328a-7095-4079-9246-f4a356fdd931">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/e07b94f7-1240-448e-9891-3a2e2eba2931">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/91c0335b-b96e-4360-8c3e-e495646d1d2a">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6469332f-b7d4-44b1-9b69-b7e2a51dc775">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/7ca0c80a-f705-4a92-b85b-dd6d95e409aa">
+
+# #End</details>
+
+<details>
+<summary>21. TripAdvisor App - Setup Hero and About Components </summary>
+
+# Setup Hero and About Components
+
 ```x
 
 ```
