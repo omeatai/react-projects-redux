@@ -376,6 +376,21 @@ html {
 
 # Setup Hero and About Components
 
+### [https://github.com/omeatai/react-projects-redux/commit/4c1d296599969b11a826055cb8a5b08a1f6d1f4a](https://github.com/omeatai/react-projects-redux/commit/4c1d296599969b11a826055cb8a5b08a1f6d1f4a)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/391519dc-b6bd-462a-aae1-31181d381ee7">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/d77dce40-a450-48ff-b07f-0bdec311ee4e">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/4c1261cf-b489-4d17-93e5-459eac75f9fa">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/8459f86e-ba68-46a9-a244-71340c3e391b">
+<img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c4830531-4135-4cab-a824-a02db342f9c7">
+
+# #End</details>
+
+<details>
+<summary>22. TripAdvisor App - Setup Title and Services Components </summary>
+
+# Setup Title and Services Components
+
 ```x
 
 ```
