@@ -536,9 +536,9 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>26. React Adv - Setup App </summary>
+<summary>26. React Adv - Setup App Component </summary>
 
-# Setup App
+# Setup App Component
 
 ### [https://github.com/omeatai/react-projects-redux/commit/23370403cb80e69a503234e1936e7b741927174d](https://github.com/omeatai/react-projects-redux/commit/23370403cb80e69a503234e1936e7b741927174d)
 
@@ -552,9 +552,9 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>27. React Adv - Setup useState Example </summary>
+<summary>27. React Adv - Setup React UseState Example </summary>
 
-# Setup useState Example
+# Setup React UseState Example
 
 ```x
 
