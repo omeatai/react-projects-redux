@@ -556,6 +556,21 @@ Vite Setup
 
 # Setup React UseState Example
 
+### [https://github.com/omeatai/react-projects-redux/commit/c23f87562cfe72f95bdb125b6ef60bba6c8d2274](https://github.com/omeatai/react-projects-redux/commit/c23f87562cfe72f95bdb125b6ef60bba6c8d2274)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/af328877-d038-418c-8017-e00f8f79b77b">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/bae9a973-e3f5-40c4-8de2-84750fbf5ad9">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/02596855-f778-4510-ab26-d99b6a57b4c5">
+<img width="1356" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ed6c96db-93e7-4ce3-ae82-7ffe12d0c6c6">
+<img width="1356" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/20b9fb3f-bd5f-4f08-bbe4-823196615397">
+
+# #End</details>
+
+<details>
+<summary>28. React Adv - Setup React UseEffect Example </summary>
+
+# Setup React UseEffect Example
+
 ```x
 
 ```
