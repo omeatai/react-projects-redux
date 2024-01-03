@@ -536,9 +536,25 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>26. React Adv - Setup Components </summary>
+<summary>26. React Adv - Setup App </summary>
 
-# Setup Components
+# Setup App
+
+### [https://github.com/omeatai/react-projects-redux/commit/23370403cb80e69a503234e1936e7b741927174d](https://github.com/omeatai/react-projects-redux/commit/23370403cb80e69a503234e1936e7b741927174d)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f9b3e45a-a2fd-4392-be65-8bfa1abffe35">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0fe7c2b7-0602-49f0-b5bf-7f54d4fba250">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ed4e077d-d5bf-4969-ae6f-983bb6fac4f0">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/aa1e7c2c-1208-4cb7-9771-174bb7afa2ff">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/d22afe8b-b833-4bd7-b4ee-de837bb4cc45">
+<img width="1397" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/592475a6-b942-46e5-9776-c9c3af4ba090">
+
+# #End</details>
+
+<details>
+<summary>27. React Adv - Setup useState Example </summary>
+
+# Setup useState Example
 
 ```x
 
