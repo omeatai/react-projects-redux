@@ -467,6 +467,8 @@ git push -u origin main
 
 ### [https://vitejs.dev/guide/](https://vitejs.dev/guide/)
 
+### [https://github.com/omeatai/react-projects-redux/commit/ed82c629ff7636f9d9c43ce5a538ef972d1825b3](https://github.com/omeatai/react-projects-redux/commit/ed82c629ff7636f9d9c43ce5a538ef972d1825b3)
+
 ```x
 # npm 7+, extra double-dash is needed:
 npm create vite@latest react-adv-app -- --template react
@@ -534,9 +536,9 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>26. React Adv - Setup  </summary>
+<summary>26. React Adv - Setup Components </summary>
 
-# Setup 
+# Setup Components
 
 ```x
 
