@@ -469,16 +469,16 @@ git push -u origin main
 
 ```x
 # npm 7+, extra double-dash is needed:
-npm create vite@latest my-react-app -- --template react
+npm create vite@latest react-adv-app -- --template react
 
 # yarn
-yarn create vite my-react-app --template react
+yarn create vite react-adv-app --template react
 
 # pnpm
-pnpm create vite my-react-app --template react
+pnpm create vite react-adv-app --template react
 
 # bun
-bunx create-vite my-react-app --template react
+bunx create-vite react-adv-app --template react
 ```
 
 ```x
@@ -490,6 +490,8 @@ lit, lit-ts, svelte, svelte-ts, solid, solid-ts, qwik, qwik-ts.
 # Install Dependencies
 
 ```x
+cd react-adv-app
+
 npm install
 npm i
 ```
@@ -524,6 +526,10 @@ Vite Setup
 - rest the same - imports/exports, deployment, assets, etc...
 
 <img width="1441" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0e218b69-eeb7-4324-9f61-7aa022cdcb35">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/518d71f5-f68f-41e7-b22e-e5bb2da37c22">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f2765ced-a874-49f4-8e52-22fe04bc7ddf">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/997a1759-0823-41b0-a25e-811e961c4d0e">
+<img width="1397" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a9db9f33-25d8-4687-b994-3b7f9b526084">
 
 # #End</details>
 
