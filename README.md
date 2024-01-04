@@ -608,9 +608,24 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>31. React Adv - Setup  </summary>
+<summary>31. React Adv - Setup Cleanup Function for useEffect </summary>
 
-# Setup 
+# Setup Cleanup Function for useEffect
+
+### [https://github.com/omeatai/react-projects-redux/commit/f1b537f48e4924eba400809f17551e459f6620bb](https://github.com/omeatai/react-projects-redux/commit/f1b537f48e4924eba400809f17551e459f6620bb)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/15fbdd99-5f3b-4518-80e5-63ae829fe998">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2b522b63-8e0c-4e57-a7b7-d4ea7fed5bff">
+<img width="1432" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5f488037-59c0-4681-b0c0-af959870e0fc">
+<img width="1432" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/4d5d08bb-0cba-4186-ab7d-831b4be8193c">
+
+# #End</details>
+
+<details>
+<summary>32. React Adv - Setup </summary>
+
+# Setup
+
 
 ```x
 
