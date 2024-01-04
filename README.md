@@ -598,6 +598,20 @@ Vite Setup
 
 # Setup Short Circuit / Tenary Operator
 
+### [https://github.com/omeatai/react-projects-redux/commit/4f0cdcdce0b4aab953a6944a5a8bd6b41c1cb4a6](https://github.com/omeatai/react-projects-redux/commit/4f0cdcdce0b4aab953a6944a5a8bd6b41c1cb4a6)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/7a05269c-4e84-4003-9c1f-843be0dbee26">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/af7d4932-65c7-4d94-9d2d-8316f0eb1d86">
+<img width="1432" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ff52f671-06df-4e36-952b-47ba1278b73b">
+<img width="1432" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/7c3cf441-29c5-4adc-9afd-7ca42c59e2aa">
+
+# #End</details>
+
+<details>
+<summary>31. React Adv - Setup  </summary>
+
+# Setup 
+
 ```x
 
 ```
