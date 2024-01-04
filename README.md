@@ -585,6 +585,19 @@ Vite Setup
 
 # Setup React Conditional Rendering
 
+### [https://github.com/omeatai/react-projects-redux/commit/219fe68cb72b3982c3cc526e658b5a82a14f2e54](https://github.com/omeatai/react-projects-redux/commit/219fe68cb72b3982c3cc526e658b5a82a14f2e54)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/9792577a-3e55-4d32-b748-9cb75ebe4bf3">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5b7d7848-a194-46a4-b9da-6a0b7c281a8e">
+<img width="1356" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b2e76442-cf5b-4699-9601-d5987f3dec58">
+
+# #End</details>
+
+<details>
+<summary>30. React Adv - Setup Short Circuit / Tenary Operator </summary>
+
+# Setup Short Circuit / Tenary Operator
+
 ```x
 
 ```
