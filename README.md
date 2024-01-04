@@ -573,6 +573,7 @@ Vite Setup
 
 ### [https://github.com/omeatai/react-projects-redux/commit/4c9f5e1d7c1f15afc16f032ffba22d183a546210](https://github.com/omeatai/react-projects-redux/commit/4c9f5e1d7c1f15afc16f032ffba22d183a546210)
 
+<img width="1356" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b95ee471-3431-43ee-9d76-f1a04c8ef6ea">
 <img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/589e41e5-27b1-4183-8b9c-7b1b391f94ce">
 <img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/d97e6332-fbc6-44af-bd4f-5502b40fa4c8">
 <img width="1356" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/bcd1e5f6-8934-4388-a6f7-3364e84f255b">
