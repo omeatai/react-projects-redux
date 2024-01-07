@@ -608,9 +608,9 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>31. React Adv - Setup Cleanup Function for useEffect </summary>
+<summary>31. React Adv - Setup Cleanup Function for useEffect: setTimer </summary>
 
-# Setup Cleanup Function for useEffect
+# Setup Cleanup Function for useEffect: setTimer
 
 ### [https://github.com/omeatai/react-projects-redux/commit/f1b537f48e4924eba400809f17551e459f6620bb](https://github.com/omeatai/react-projects-redux/commit/f1b537f48e4924eba400809f17551e459f6620bb)
 
@@ -622,9 +622,40 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>32. React Adv - Setup </summary>
+<summary>32. React Adv - Setup Cleanup Function for useEffect: addEventListener </summary>
 
-# Setup
+# Setup Cleanup Function for useEffect: addEventListener
+
+### [https://github.com/omeatai/react-projects-redux/commit/84f01c5b52cd9b944acbee67f784ed3b867fc68f](https://github.com/omeatai/react-projects-redux/commit/84f01c5b52cd9b944acbee67f784ed3b867fc68f)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/af87e751-a876-477d-b0cc-51ec0604fc23">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/4d79eecc-9228-47af-bce0-154709b2a1d8">
+<img width="1461" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2db7de9f-8d83-4d54-ad11-1c592b1e399e">
+<img width="1461" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5fa436e8-679c-4d3a-84f8-3be603947fae">
+
+# #End</details>
+
+<details>
+<summary>33. React Adv - Setup Named and Default Exports </summary>
+
+# Setup Named and Default Exports
+
+### [https://github.com/omeatai/react-projects-redux/commit/4d3224e5dcc847f4a9c89bb4360a8234fac1f0c4](https://github.com/omeatai/react-projects-redux/commit/4d3224e5dcc847f4a9c89bb4360a8234fac1f0c4)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/e1b7f5e9-83b3-4d1c-a502-799911fc2c4e">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/e4ec852c-1eaf-4855-911d-5eacce3e5fc2">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/07793289-2967-47b7-8f23-43cd2d932679">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/defe3ede-2082-426f-bf3f-1bd2abe564a7">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/d6787352-ffd2-4765-b988-1eeb5db8d0bf">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/90cbebd0-d3ef-4aba-ba06-5914fad201e2">
+<img width="1465" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a8a0439f-cbaf-410b-9ea1-3dd08cfd2749">
+
+# #End</details>
+
+<details>
+<summary>34. React Adv - Setup JS in React </summary>
+
+# Setup JS in React
 
 
 ```x
