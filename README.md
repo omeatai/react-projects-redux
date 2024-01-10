@@ -699,9 +699,23 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 # #End</details>
 
 <details>
-<summary>35. React Adv - Setup React Forms </summary>
+<summary>35. React Adv - Setup a simple React Form </summary>
 
-# Setup React Forms
+# Setup a simple React Form
+
+### [https://github.com/omeatai/react-projects-redux/commit/60e819c3e27b3a59d5d883405132135973443dc7](https://github.com/omeatai/react-projects-redux/commit/60e819c3e27b3a59d5d883405132135973443dc7)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3492be8c-41a0-4f64-9b23-159b74afe787">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/24fbcf4e-0610-4580-9ff3-81fd8208a458">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0d8f0e18-ec68-4d38-a5c6-0dcc38033492">
+<img width="1453" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/dea61b75-3a71-4d52-9374-a507e3c1fe9b">
+
+# #End</details>
+
+<details>
+<summary>36. React Adv - Setup single function for multiple Form Inputs </summary>
+
+# Setup single function for multiple Form Inputs
 
 ```x
 
