@@ -717,6 +717,68 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 
 # Setup single function for multiple Form Inputs
 
+### [https://github.com/omeatai/react-projects-redux/commit/5d29680dd8dd378c9ef4e6a9211d9c9958af40a4](https://github.com/omeatai/react-projects-redux/commit/5d29680dd8dd378c9ef4e6a9211d9c9958af40a4)
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0c88cb4a-ee65-4112-954e-e20e00164c00">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/1e69a393-8acd-447c-9826-d20727175355">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2bc1c576-6c4c-457a-b513-78fbdf162d94">
+<img width="1453" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/473867ce-7954-4c75-97c7-8f4203e0c3ad">
+
+# #End</details>
+
+<details>
+<summary>37. React Adv - Setup  </summary>
+
+# Setup single 
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
 ```x
 
 ```
