@@ -653,18 +653,55 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>34. React Adv - Setup JS in React </summary>
+<summary>34. React Adv - Setup Optional Chaining </summary>
 
-# Setup JS in React
+# Setup Optional Chaining
 
-
-```x
-
-```
+# List.jsx:
 
 ```x
-
+import { people } from '../../../data';
+import Person from './Person';
+const List = () => {
+  return (
+    <div>
+      {people.map((person) => {
+        return <Person key={person.name} {...person} />;
+      })}
+    </div>
+  );
+};
+export default List;
 ```
+
+# Person.jsx:
+
+```x
+import React from 'react';
+import avatar from '../../../assets/default-avatar.svg';
+
+export function Person({ name, nickName = 'shakeAndBake', images }) {
+  // const img = (images && images[0] && images[0].small && images[0].small.url) || avatar;
+  // const img = images?.[0]?.small?.url ?? avatar; // Combining with the nullish coalescing operator ??
+
+  const img = images?.[0]?.small?.url ?? avatar;
+
+  return (
+    <div>
+      <img src={img} alt={name} style={{ width: '50px' }} />
+      <h4>{name} </h4>
+      <p>Nickname : {nickName}</p>
+    </div>
+  );
+}
+```
+
+# #End</details>
+
+<details>
+<summary>35. React Adv - Setup React Forms </summary>
+
+# Setup React Forms
 
 ```x
 
