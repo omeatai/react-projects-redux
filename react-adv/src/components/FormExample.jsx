@@ -2,24 +2,34 @@ import { useState } from "react";
 import { data } from "../data";
 
 const FormExample = () => {
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
+  const INITIAL_USER = {
+    name: "",
+    email: "",
+    password: "",
+  };
   const [users, setUsers] = useState(data);
+  const [user, setUser] = useState(INITIAL_USER);
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setUser({ ...user, [name]: value });
+  };
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(name, email);
-    if (!name || !email) {
-      console.log("Please enter a name and email");
-      alert("Please enter a name and email");
+    console.log(user);
+    if (!user.name || !user.email || !user.password) {
+      console.log("Please enter a name, email and password.");
+      alert("Please enter a name, email and password.");
       return;
     }
 
     const lastUserId = users[users.length - 1].id;
-    const newUserId = new Date().getTime() || lastUserId;
-    const newUser = { id: newUserId, name, email };
+    // const newUserId = new Date().getTime() || lastUserId;
+    const newUser = { id: lastUserId + 1, ...user };
     const updatedUser = [...users, newUser];
     setUsers(updatedUser);
+    setUser(INITIAL_USER);
   };
 
   const removeUser = (id) => {
@@ -38,9 +48,10 @@ const FormExample = () => {
           <input
             type="text"
             className="form-input"
+            name="name"
             id="name"
-            value={name}
-            onChange={(e) => setName(e.target.value)}
+            value={user.name}
+            onChange={handleChange}
           />
         </div>
         <div className="form-row">
@@ -50,11 +61,27 @@ const FormExample = () => {
           <input
             type="email"
             className="form-input"
+            name="email"
             id="email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
+            value={user.email}
+            onChange={handleChange}
           />
         </div>
+        {/* password */}
+        <div className="form-row">
+          <label htmlFor="password" className="form-label">
+            Password
+          </label>
+          <input
+            type="password"
+            className="form-input"
+            name="password"
+            id="password"
+            value={user.password}
+            onChange={handleChange}
+          />
+        </div>
+
         <button type="submit" className="btn btn-block">
           submit
         </button>
