@@ -727,9 +727,14 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 # #End</details>
 
 <details>
-<summary>37. React Adv - Setup  </summary>
+<summary>37. React Adv - Setup Form Checkbox and Select Inputs  </summary>
 
-# Setup single 
+# Setup Form Checkbox and Select Inputs
+
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/1647b643-eb18-4bcb-8f52-7a29e946983c">
+<img width="1131" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f9266d33-570c-4782-800d-78d68952022b">
+<img width="1404" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/570739d1-14ed-42d5-98ce-2e300ef1e47b">
+
 
 ```x
 
