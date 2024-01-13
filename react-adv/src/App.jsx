@@ -1,10 +1,10 @@
-import FormExample from "./components/FormExample";
+import FormCheckBox from "./components/FormCheckBox";
 
 function App() {
   return (
     <div className="container">
       <h2>React Adv</h2>
-      <FormExample />
+      <FormCheckBox />
     </div>
   );
 }
