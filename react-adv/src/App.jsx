@@ -1,10 +1,10 @@
-import FormCheckBox from "./components/FormCheckBox";
+import FormDataAPI from "./components/FormDataAPI";
 
 function App() {
   return (
     <div className="container">
       <h2>React Adv</h2>
-      <FormCheckBox />
+      <FormDataAPI />
     </div>
   );
 }
