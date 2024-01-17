@@ -763,13 +763,14 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 <img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/7a58b8a0-b404-471e-bc62-0e18822ba3bf">
 <img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/47bb867c-1c6c-496e-bcbe-c8ca8af7e0d9">
 <img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5e73ed7d-534e-4901-9c02-747b8d7cd8b3">
+<img width="1362" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c1143a47-1494-45c4-bdc9-929e11494ade">
 
 # #End</details>
 
 <details>
-<summary>40. React Adv - Setup Context Api </summary>
+<summary>40. React Adv - Setup Context API </summary>
 
-# Setup Context Api
+# Setup Context API
 
 ```x
 
