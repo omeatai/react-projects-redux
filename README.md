@@ -740,9 +740,22 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 # #End</details>
 
 <details>
-<summary>38. React Adv - Setup Form   </summary>
+<summary>38. React Adv - Setup UseRef </summary>
 
-# Setup Form
+# Setup UseRef
+
+### [https://github.com/omeatai/react-projects-redux/commit/e6ae4ca9c103d70687577fc0efcb95183aba9ea2](https://github.com/omeatai/react-projects-redux/commit/e6ae4ca9c103d70687577fc0efcb95183aba9ea2)
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/d26d9b08-2ed5-4a82-b1e0-f34764849c84">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/21ee9ee5-cd78-4535-a617-528907a51e18">
+<img width="1362" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/683d3887-b12d-4d34-9461-022731593843">
+
+# #End</details>
+
+<details>
+<summary>39. React Adv - Setup Custom Hooks </summary>
+
+# Setup Custom Hooks
 
 ```x
 
