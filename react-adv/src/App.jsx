@@ -1,11 +1,12 @@
-import ReactUseRef from "./components/ReactUseRef";
+import ReactCustomHooks from "./components/ReactCustomHooks";
 
 const App = () => {
   return (
     <div className="container">
       <h2>React Adv</h2>
-      <ReactUseRef />
+      <ReactCustomHooks />
     </div>
   );
 };
+
 export default App;
