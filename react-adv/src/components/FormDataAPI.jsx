@@ -57,4 +57,5 @@ const FormDataAPI = () => {
     </div>
   );
 };
+
 export default FormDataAPI;
