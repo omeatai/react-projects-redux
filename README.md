@@ -757,6 +757,21 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 
 # Setup Custom Hooks
 
+### [https://github.com/omeatai/react-projects-redux/commit/b7236e2f9ac93b2601be25108efd90cdb4fa0260](https://github.com/omeatai/react-projects-redux/commit/b7236e2f9ac93b2601be25108efd90cdb4fa0260)
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/02c6170e-2048-4cd5-8a64-392a49ce17df">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/7a58b8a0-b404-471e-bc62-0e18822ba3bf">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/47bb867c-1c6c-496e-bcbe-c8ca8af7e0d9">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5e73ed7d-534e-4901-9c02-747b8d7cd8b3">
+<img width="1362" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c1143a47-1494-45c4-bdc9-929e11494ade">
+
+# #End</details>
+
+<details>
+<summary>40. React Adv - Setup Context API </summary>
+
+# Setup Context API
+
 ```x
 
 ```
