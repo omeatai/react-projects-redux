@@ -1,10 +1,9 @@
-import ReactCustomHooks from "./components/ReactCustomHooks";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
-    <div className="container">
-      <h2>React Adv</h2>
-      <ReactCustomHooks />
+    <div>
+      <Navbar />
     </div>
   );
 };
