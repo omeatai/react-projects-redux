@@ -1,40 +1,16 @@
 import { useReducer } from "react";
 import { data } from "../data";
 
+// Actions
+import { CLEAR_LIST, RESET_LIST, REMOVE_ITEM } from "../store/actions";
+
+// reducer function
+import reducer from "../store/reducer";
+
 // default/initial state
 const defaultState = {
   people: data,
   isLoading: false,
-};
-
-// Actions
-const CLEAR_LIST = "CLEAR_LIST";
-const RESET_LIST = "RESET_LIST";
-const REMOVE_ITEM = "REMOVE_ITEM";
-
-// reducer function - whatever state is returned from the function is the new state
-// dispatch({type:'SOME_ACTION'}) an action - handle it in reducer, return new state
-const reducer = (state, action) => {
-  if (action.type === CLEAR_LIST) {
-    console.log(action);
-    return { ...state, people: action.payload };
-  } else if (action.type === REMOVE_ITEM) {
-    // let newPeople = state.people.filter((person) => person.id!== action.payload);
-    // return { people: newPeople };
-    console.log(action);
-    return {
-      ...state,
-      people: state.people.filter((person) => person.id !== action.payload.id),
-    };
-  } else if (action.type === RESET_LIST) {
-    console.log(action);
-    return {
-      ...state,
-      people: action.payload,
-    };
-  }
-  //   return state;
-  throw new Error(`No Matching "${action.type}" - action type`);
 };
 
 const ReactReducer = () => {
