@@ -772,8 +772,42 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 
 # Setup Context API
 
-```x
+### [https://github.com/omeatai/react-projects-redux/commit/12e5b17b23ac41a445d5d3e94f79bd25583571d2](https://github.com/omeatai/react-projects-redux/commit/12e5b17b23ac41a445d5d3e94f79bd25583571d2)
 
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/e66f44d9-e266-46d8-9667-accd6785fe58">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/fba75ec1-797a-44bc-9406-8b27159f190e">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2dc1c3cc-c0ea-4791-819e-f295921476d8">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/de8b38cc-9fc7-4cee-bc93-95f9c87ff214">
+<img width="1318" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/9fd66976-a264-4317-8d8c-6c6fe06aa30f">
+
+# #End</details>
+
+<details>
+<summary>41. React Adv - Setup Context API with Custom Hook </summary>
+
+# Setup Context API with Custom Hook
+
+### [https://github.com/omeatai/react-projects-redux/commit/cb6f6a94cc16ad9e13e36fc57c41984f59cb1221](https://github.com/omeatai/react-projects-redux/commit/cb6f6a94cc16ad9e13e36fc57c41984f59cb1221)
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c86e0bc8-d7a6-41ba-a464-5fa1140ab4ec">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/593bd856-4615-4035-b5dc-521e450ca0d1">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/faf4af82-b57d-48f9-bd04-85c5dfeead18">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/1b102a9d-5eb4-4fff-a7cc-8e8ca1c4e08f">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/45c3884e-740f-43b7-b19b-967bbb18b050">
+<img width="1328" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3028545e-a54a-4dee-9cbd-a01a9dcc9352">
+
+# #End</details>
+
+<details>
+<summary>42. React Adv - Setup Global Context API </summary>
+
+# Setup Global Context API
+
+# Install PropTypes
+
+```x
+yarn add prop-types
+npm install --save prop-types
 ```
 
 ```x
