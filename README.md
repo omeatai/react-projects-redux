@@ -826,13 +826,101 @@ npm install --save prop-types
 
 # Setup useReducer 
 
+# Initial Setup
+
+### ReactReducer.jsx
+
 ```x
+import { useState } from "react";
+import { data } from "../data";
+
+const ReactReducer = () => {
+  const [people, setPeople] = useState(data);
+
+  const removeItem = (id) => {
+    let newPeople = people.filter((person) => person.id !== id);
+    setPeople(newPeople);
+  };
+
+  const resetList = () => {
+    setPeople(data);
+  };
+
+  const clearList = () => {
+    setPeople([]);
+  };
+
+  return (
+    <div>
+      {people.map((person) => {
+        const { id, name } = person;
+        return (
+          <div key={id} className="item">
+            <h4>{name}</h4>
+            <button onClick={() => removeItem(id)}>remove</button>
+          </div>
+        );
+      })}
+      {people.length < 1 ? (
+        <button
+          className="btn"
+          style={{ marginTop: "2rem" }}
+          onClick={resetList}
+        >
+          reset
+        </button>
+      ) : (
+        <button
+          className="btn"
+          style={{ marginTop: "2rem" }}
+          onClick={clearList}
+        >
+          clear
+        </button>
+      )}
+    </div>
+  );
+};
+
+export default ReactReducer;
 
 ```
 
+### data.js
+
 ```x
+export const data = [
+  { id: 1, name: "john", email: "john@example.com" },
+  { id: 2, name: "peter" },
+  { id: 3, name: "susan", email: "susan@example.com" },
+  { id: 4, name: "anna" },
+];
+
+export const people = [
+  { id: 1, name: "bob", nickName: "Stud Muffin" },
+  { id: 2, name: "peter" },
+  {
+    id: 3,
+    name: "oliver",
+    images: [
+      {
+        small: {
+          url: "https://res.cloudinary.com/diqqf3eq2/image/upload/ar_1:1,bo_5px_solid_rgb:ff0000,c_fill,g_auto,r_max,w_1000/v1595959121/person-1_aufeoq.jpg",
+        },
+      },
+    ],
+  },
+  { id: 4, name: "david" },
+];
+
+//
 
 ```
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3b95b046-a36c-43b0-8cf8-95a7e710bea9">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/37487404-232f-4537-8754-eebf5d4ea937">
+<img width="1401" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6e64c58f-bf2d-4dfd-84dc-26ace4f53b6c">
+
 
 ```x
 
