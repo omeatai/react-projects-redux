@@ -1,7 +1,7 @@
-import useAppContext from "./hooks/useAppContext";
+import { useGlobalContext } from "../contexts/AppContext.jsx";
 
 const UserContainer = () => {
-  const { user, logout } = useAppContext();
+  const { user, logout } = useGlobalContext();
 
   return (
     <div className="user-container">
