@@ -1,10 +1,18 @@
-import { useState } from "react";
+import { useState, useCallback } from "react";
 import { data } from "../data";
 import List from "./List";
 
 const ReactMemo = () => {
   const [people, setPeople] = useState(data);
   const [count, setCount] = useState(0);
+
+  const removePerson = useCallback(
+    (id) => {
+      const newPeople = people.filter((person) => person.id !== id);
+      setPeople(newPeople);
+    },
+    [people]
+  );
 
   return (
     <section>
@@ -15,7 +23,7 @@ const ReactMemo = () => {
       >
         count {count}
       </button>
-      <List people={people} setPeople={setPeople} />
+      <List people={people} removePerson={removePerson} />
     </section>
   );
 };
