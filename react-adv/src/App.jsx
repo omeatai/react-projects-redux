@@ -1,9 +1,9 @@
-import ReactReducer from "./components/ReactReducer";
+import ReactMemo from "./components/ReactMemo";
 
 const App = () => {
   return (
     <div className="container">
-      <ReactReducer />
+      <ReactMemo />
     </div>
   );
 };
