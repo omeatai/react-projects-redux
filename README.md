@@ -948,9 +948,24 @@ export const people = [
 # #End</details>
 
 <details>
-<summary>45. React Adv - S </summary>
+<summary>45. React Adv - Setup React.memo </summary>
 
-# S
+# Setup React.memo
+
+### [https://github.com/omeatai/react-projects-redux/commit/adb9718e54a9fff7fc669652c72d0160aec66e99](https://github.com/omeatai/react-projects-redux/commit/adb9718e54a9fff7fc669652c72d0160aec66e99)
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/4a7903b9-af39-4412-bcfa-b0483dd11248">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2f4b3828-4cef-4072-aac8-76c94d35697a">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/be1938dc-b0db-4a21-a1d2-93208c19b272">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a06b68fb-c6bc-45ee-b604-7f531d9dab49">
+<img width="1452" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/67857b4f-dedd-43b7-b987-2e1dc9d3356b">
+
+# #End</details>
+
+<details>
+<summary>46. React Adv - Setup  </summary>
+
+# Setup 
 
 ```x
 
