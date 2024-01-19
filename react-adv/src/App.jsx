@@ -1,9 +1,9 @@
-import Navbar from "./components/Navbar";
+import ReactReducer from "./components/ReactReducer";
 
 const App = () => {
   return (
-    <div>
-      <Navbar />
+    <div className="container">
+      <ReactReducer />
     </div>
   );
 };
