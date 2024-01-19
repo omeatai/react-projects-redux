@@ -822,9 +822,11 @@ npm install --save prop-types
 # #End</details>
 
 <details>
-<summary>43. React Adv - Setup useReducer </summary>
+<summary>43. React Adv - Setup useReducer Function </summary>
 
-# Setup useReducer 
+# Setup useReducer Function
+
+### [https://github.com/omeatai/react-projects-redux/commit/5b42e3a718eef6d0b98b8a972af2f371123abaae](https://github.com/omeatai/react-projects-redux/commit/5b42e3a718eef6d0b98b8a972af2f371123abaae)
 
 # Initial Setup
 
@@ -921,6 +923,19 @@ export const people = [
 <img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/37487404-232f-4537-8754-eebf5d4ea937">
 <img width="1401" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6e64c58f-bf2d-4dfd-84dc-26ace4f53b6c">
 
+# useReducer Hook
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c1434d81-f34f-4bc7-8f38-bc5aba3841b7">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/18d15d9f-a641-4fec-b982-c6ba1d137db5">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/9d506e05-1597-4a2d-a4fe-6a8a307d7150">
+<img width="1374" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/93843986-3f63-4041-96b5-1767058da244">
+
+# #End</details>
+
+<details>
+<summary>44. React Adv - Setup useReducer Components </summary>
+
+# Setup useReducer Components
 
 ```x
 
