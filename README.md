@@ -803,6 +803,8 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 
 # Setup Global Context API
 
+### [https://github.com/omeatai/react-projects-redux/commit/bcf1da42177eb39c65a2fa75fb67d8c6355dccfa](https://github.com/omeatai/react-projects-redux/commit/bcf1da42177eb39c65a2fa75fb67d8c6355dccfa)
+
 # Install PropTypes
 
 ```x
@@ -810,13 +812,115 @@ yarn add prop-types
 npm install --save prop-types
 ```
 
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/34462fd6-d0ff-4fa7-a673-4e3c4fd49fb3">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0031674c-3923-49db-b021-efcb06ba3edb">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/93162bd0-365e-45e7-816a-9f0c3ce76673">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a0cf285c-184c-4118-b0f0-e8e5caaa5d6f">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/14274532-065a-4258-be0b-1d228d17d6f1">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c869096c-4c44-450f-8871-fd35e41f0d31">
+
+# #End</details>
+
+<details>
+<summary>43. React Adv - Setup useReducer </summary>
+
+# Setup useReducer 
+
+# Initial Setup
+
+### ReactReducer.jsx
+
 ```x
+import { useState } from "react";
+import { data } from "../data";
+
+const ReactReducer = () => {
+  const [people, setPeople] = useState(data);
+
+  const removeItem = (id) => {
+    let newPeople = people.filter((person) => person.id !== id);
+    setPeople(newPeople);
+  };
+
+  const resetList = () => {
+    setPeople(data);
+  };
+
+  const clearList = () => {
+    setPeople([]);
+  };
+
+  return (
+    <div>
+      {people.map((person) => {
+        const { id, name } = person;
+        return (
+          <div key={id} className="item">
+            <h4>{name}</h4>
+            <button onClick={() => removeItem(id)}>remove</button>
+          </div>
+        );
+      })}
+      {people.length < 1 ? (
+        <button
+          className="btn"
+          style={{ marginTop: "2rem" }}
+          onClick={resetList}
+        >
+          reset
+        </button>
+      ) : (
+        <button
+          className="btn"
+          style={{ marginTop: "2rem" }}
+          onClick={clearList}
+        >
+          clear
+        </button>
+      )}
+    </div>
+  );
+};
+
+export default ReactReducer;
 
 ```
 
+### data.js
+
 ```x
+export const data = [
+  { id: 1, name: "john", email: "john@example.com" },
+  { id: 2, name: "peter" },
+  { id: 3, name: "susan", email: "susan@example.com" },
+  { id: 4, name: "anna" },
+];
+
+export const people = [
+  { id: 1, name: "bob", nickName: "Stud Muffin" },
+  { id: 2, name: "peter" },
+  {
+    id: 3,
+    name: "oliver",
+    images: [
+      {
+        small: {
+          url: "https://res.cloudinary.com/diqqf3eq2/image/upload/ar_1:1,bo_5px_solid_rgb:ff0000,c_fill,g_auto,r_max,w_1000/v1595959121/person-1_aufeoq.jpg",
+        },
+      },
+    ],
+  },
+  { id: 4, name: "david" },
+];
+
+//
 
 ```
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/3b95b046-a36c-43b0-8cf8-95a7e710bea9">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/37487404-232f-4537-8754-eebf5d4ea937">
+<img width="1401" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6e64c58f-bf2d-4dfd-84dc-26ace4f53b6c">
+
 
 ```x
 
