@@ -803,12 +803,28 @@ export function Person({ name, nickName = 'shakeAndBake', images }) {
 
 # Setup Global Context API
 
+### [https://github.com/omeatai/react-projects-redux/commit/bcf1da42177eb39c65a2fa75fb67d8c6355dccfa](https://github.com/omeatai/react-projects-redux/commit/bcf1da42177eb39c65a2fa75fb67d8c6355dccfa)
+
 # Install PropTypes
 
 ```x
 yarn add prop-types
 npm install --save prop-types
 ```
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/34462fd6-d0ff-4fa7-a673-4e3c4fd49fb3">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0031674c-3923-49db-b021-efcb06ba3edb">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/93162bd0-365e-45e7-816a-9f0c3ce76673">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a0cf285c-184c-4118-b0f0-e8e5caaa5d6f">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/14274532-065a-4258-be0b-1d228d17d6f1">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/c869096c-4c44-450f-8871-fd35e41f0d31">
+
+# #End</details>
+
+<details>
+<summary>43. React Adv - Setup useReducer </summary>
+
+# Setup useReducer 
 
 ```x
 
