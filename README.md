@@ -937,6 +937,21 @@ export const people = [
 
 # Setup useReducer Components
 
+### [https://github.com/omeatai/react-projects-redux/commit/3d736aba8cfc40c05deb3e274cdca0dbe8c2b206](https://github.com/omeatai/react-projects-redux/commit/3d736aba8cfc40c05deb3e274cdca0dbe8c2b206)
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/27c46a4b-7674-46b7-810c-b7c5091b164d">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/366c0abd-d3c1-4fc4-92b7-26f5e2064335">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2208323c-04aa-431b-b8bc-1c4d1ae49d9f">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/2801fa2b-3146-4773-bf4e-7102cb655486">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/7df21426-c5da-4641-88f1-aee749e0902f">
+
+# #End</details>
+
+<details>
+<summary>45. React Adv - S </summary>
+
+# S
+
 ```x
 
 ```
