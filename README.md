@@ -959,13 +959,31 @@ export const people = [
 <img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/be1938dc-b0db-4a21-a1d2-93208c19b272">
 <img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/a06b68fb-c6bc-45ee-b604-7f531d9dab49">
 <img width="1452" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/67857b4f-dedd-43b7-b987-2e1dc9d3356b">
+<img width="1452" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/852d120c-19bc-461e-aa06-bf1ba160b422">
+<img width="1452" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/22d0b67d-e5cc-4a10-9cb8-c53b6482bef1">
 
 # #End</details>
 
 <details>
-<summary>46. React Adv - Setup  </summary>
+<summary>46. React Adv - Setup useCallback Hook </summary>
 
-# Setup 
+# Setup useCallback Hook
+
+### [https://github.com/omeatai/react-projects-redux/commit/a4d53179c64c05e9a7b70122846cedfa5b9baef6](https://github.com/omeatai/react-projects-redux/commit/a4d53179c64c05e9a7b70122846cedfa5b9baef6)
+
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/ad56c21e-efde-450a-8327-f626e5dc348f">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/0bc5e1d5-b107-44a5-a6de-ffc6d85627c0">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/12ce41f7-cfb9-4e66-8895-4d246a46b2f3">
+<img width="1136" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/970a9e2e-d9f8-4e48-a017-ef025c85503c">
+<img width="1391" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f179b089-1af8-4c07-9344-66011d43ae7a">
+<img width="1391" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/91ad0c38-575a-47f1-810b-94a7ec908953">
+
+# #End</details>
+
+<details>
+<summary>47. React Adv - Setup useMemo Hook </summary>
+
+# Setup useMemo Hook
 
 ```x
 
