@@ -21,7 +21,7 @@ These are modern React Applications built with React, Context API, Redux, Redux 
 +Introduction
 
 <details>
-<summary>1. Setup App - Create React App with Vite </summary>
+<summary>1. Create React App with Vite </summary>
 
 # https://vitejs.dev/guide/
 
