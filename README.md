@@ -99,7 +99,23 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>2. Setup App -  </summary>
+<summary>2. Setup React App - HomePage </summary>
+
+# Setup React App - HomePage
+
+<img width="1159" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6d695fc3-26ae-4521-97fb-32dd8e373b2a">
+<img width="1159" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/202f3c86-1cfd-4d52-9a92-7bb0981300fb">
+<img width="1159" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/f70ecd67-5d4b-44bb-b822-787f69a5b56d">
+<img width="1159" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/5c0b391b-d607-48a5-b782-b81ef8d58a42">
+<img width="1159" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/12c48cf1-1579-43ee-8e32-200ebf693fbc">
+<img width="1435" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/b8111c8a-613e-4a1c-a79f-b3560af9a267">
+
+# #End</details>
+
+<details>
+<summary>3. Setup React App - H </summary>
+
+# Setup React App - H
 
 ```x
 
