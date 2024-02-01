@@ -103,6 +103,13 @@ Vite Setup
 
 # Setup React App - HomePage
 
+# Install React Router DOM@6
+
+```x
+npm install react-router-dom@6
+yarn add react-router-dom@6
+```
+
 ### [https://github.com/omeatai/react-projects-redux/commit/a82687cb9b08d0af6027a9e7f750d991366d4335](https://github.com/omeatai/react-projects-redux/commit/a82687cb9b08d0af6027a9e7f750d991366d4335)
 
 <img width="1159" alt="image" src="https://github.com/omeatai/react-projects-redux/assets/32337103/6d695fc3-26ae-4521-97fb-32dd8e373b2a">
@@ -115,12 +122,15 @@ Vite Setup
 # #End</details>
 
 <details>
-<summary>3. Setup React App - H </summary>
+<summary>3. AxiosQueryApp - H </summary>
 
-# Setup React App - H
+# AxiosQueryApp - H
+
+# Install Axios
 
 ```x
-
+npm install axios
+yarn add axios
 ```
 
 ```x
